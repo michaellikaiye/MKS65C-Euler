@@ -1,4 +1,4 @@
-//homework 1 Michael Ye
+//homework 1 Michael Ye period10
 #include <stdio.h>
 int main() {
 	//problem 1
